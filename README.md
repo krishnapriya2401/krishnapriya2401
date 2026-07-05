@@ -62,6 +62,7 @@ development practices with Git version control.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
+🔗[View repo](https://github.com/krishnapriya2401/FOOD-MUNCH)
 
 ## 💻 Tech Stack
 
