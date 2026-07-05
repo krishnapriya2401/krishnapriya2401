@@ -1,7 +1,8 @@
 
 
 <div align="center">
-# Hey Folks It's me KrishnaPriya here!!👋
+
+## Hey Folks, It's me KrishnaPriya here!! 👋
   
 ### LLM & Agentic AI Enthusiast  • Full Stack Developer • Final Year CS (AI & DS) Student
 
@@ -32,7 +33,7 @@ vector embeddings for developer-to-issue matching across 50+ issues and
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
----
+<br>
 
 ### 🛰️ Explainable Anomaly Detection in Spacecraft Telemetry
 End-to-end ML pipeline detecting anomalies in NASA telemetry time-series 
@@ -57,65 +58,45 @@ development practices with Git version control.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-## 💻 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+## 💻 Tech Stack
 
 **Languages**  
 ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![C](https://skillicons.dev/icons?i=c) ![JS](https://skillicons.dev/icons?i=js)
 
-</td>
-<td valign="top" width="50%">
 
 **Frontend**  
-![React](https://skillicons.dev/icons?i=react) ![Node](https://skillicons.dev/icons?i=nodejs) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+![React](https://skillicons.dev/icons?i=react)   ![Node](https://skillicons.dev/icons?i=nodejs)   ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![HTML](https://skillicons.dev/icons?i=html)   ![CSS](https://skillicons.dev/icons?i=css)
+
 
 **Backend / Data Engineering**  
-![Django](https://skillicons.dev/icons?i=django) ![Redis](https://skillicons.dev/icons?i=redis)  
-Celery • REST APIs
 
-</td>
-<td valign="top">
+![Django](https://skillicons.dev/icons?i=django)   ![Redis](https://skillicons.dev/icons?i=redis) &nbsp; 
 
 **AI / Agentic Frameworks**  
+
 LangGraph • LangChain • Groq LLM • FAISS
 
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-
-
 **Machine Learning**  
-Logistic Regression • Decision Trees • Random Forest • SVM • KNN  
-Naive Bayes • K-Means • PCA • AdaBoost
 
-</td>
-<td valign="top">
+Logistic Regression • Decision Trees • Random Forest • SVM • KNN • Naive Bayes • K-Means • PCA • AdaBoost
 
 **Tools**  
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode)
 
-</td>
-</tr>
-</table>
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)   ![VSCode](https://skillicons.dev/icons?i=vscode)
 
 <br>
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnapriya2401&show_icons=true&theme=default)
+![Krishna's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=krishnapriya2401&show_icons=true&theme=default)
 
 </div>
-## 📫 Contact Me
+
+## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnapriya2401/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krishnapriyajan200624@gmail.com)
+
