@@ -33,6 +33,8 @@ vector embeddings for developer-to-issue matching across 50+ issues and
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
+🔗 [View repo](https://github.com/Kpranav-Kp/repo-insight) 
+
 <br>
 
 ### 🛰️ Explainable Anomaly Detection in Spacecraft Telemetry
@@ -44,6 +46,8 @@ recall, and F1-score to identify the optimal model per anomaly type.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+🔗 [View repo](https://github.com/Yamini1804/spacecraft-anomaly-detection)
 
 <br>
 
