@@ -20,13 +20,7 @@ something gets me curious, good luck getting me to stop until it's sorted!.😊
 </div>
 
 ### 🔍 RepoInsight — AI-Powered Agentic Open Source Contribution Assistant
-Multi-agent system that helps developers find and understand open-source 
-issues to contribute to. Designed an async backend (Django, Celery, Redis) 
-supporting a 6-step API workflow with JWT auth and persistent multi-turn 
-state. Built a 4-agent LangGraph orchestration pipeline for issue discovery, 
-semantic matching, guided learning, and PR context retrieval, using FAISS 
-vector embeddings for developer-to-issue matching across 50+ issues and 
-20 PRs per repository.
+Built an AI-powered system that helps developers discover and understand open-source issues to contribute to. Designed with 15 REST API endpoints, 7-agent LangGraph workflow, JWT authentication, and persistent multi-turn state. Uses FAISS vector embeddings for issue discovery, semantic matching, guided learning, and PR context retrieval, processing 300+ issues and 150+ pull requests per repository.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
